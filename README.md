@@ -2,7 +2,7 @@
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas | IFSP
 - 🌱 Estudando JavaScript, C# e HTML 
-- 🤔 Procurando meu primeiro emprego
+- 🤔 Estagiário de T.I - Prefeitura Municipal de Valinhos
 
 <br>
 
