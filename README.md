@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Murilo Alves
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas | IFSP
-- 🌱 Estudando JavaScript, C# e HTML 
-- 🤔 Estagiário de T.I - Prefeitura Municipal de Valinhos
+- 🌱 Estudante de Programação! 
 
 <br>
 
